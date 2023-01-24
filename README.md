@@ -26,6 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Habits é um app para ajudar a rastrear os hábitos.
+<a href="http://127.0.0.1:5500/index.html">Ver o projeto</a>
 
 ## 🔖 Layout
 
