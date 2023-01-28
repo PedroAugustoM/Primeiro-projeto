@@ -43,7 +43,7 @@ header {
 input {
     -webkit-appearance: none;
     appearance: none;
-    color: #A78BFA;
+    color: #0000CD;
     width: 64px;
     height: 64px;
     border: 2px solid #27272A;
@@ -52,8 +52,8 @@ input {
 }
 
 input:checked {
-    background: #8B5CF6;
-    border: 2px solid #A78BFA;
+    background: #0000CD;
+    border: 2px solid #0000CD;
     border-radius: 8px;
 }
   
@@ -89,6 +89,7 @@ form {
 
 .habits {
   margin-top: 60px;
+
   display: flex;
   flex-direction: column;
   gap: 24px;
@@ -99,6 +100,7 @@ form {
   width: 64px;
   height: 64px;
   font-size: 32px;
+  
   align-items: center;
   justify-content: center;
   
