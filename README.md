@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 <br>
-<a href="https://pedroaugustom.github.io/Primeiro-projeto/">Ver o projeto</a>
+<a href="https://pedroaugustom.github.io/Primeiro-projeto">Ver o projeto</a>
 
 ## 🔖 Layout
 
