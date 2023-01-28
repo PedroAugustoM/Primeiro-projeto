@@ -3,18 +3,18 @@
 <br>
 
 
-## 🚀 Tecnologias
+## Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+O projeto foi desenvolvido com as tecnologias:
 
 - HTML e CSS
 - JavaScript
 - Git e Github
 - Figma
 
-## 💻 Projeto
+## Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos.
+O Habits é um app para registrar os hábitos no seu dia a dia.
 <br>
 <a href="https://pedroaugustom.github.io/Primeiro-projeto/">Ver o projeto</a>
 
