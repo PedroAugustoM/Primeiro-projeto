@@ -5,7 +5,7 @@
 
 O Habits é um app para registrar os hábitos no seu dia a dia.
 <br>
-<a href="https://pedroaugustom.github.io/primeiroProjeto/">Clique aqui para ver o projeto</a>
+<a href="https://pedroaugustom.github.io/habitosDoSeuDia/">Clique aqui para ver o projeto</a>
 
 ## Tecnologias
 
