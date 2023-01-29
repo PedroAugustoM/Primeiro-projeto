@@ -16,7 +16,7 @@ O projeto foi desenvolvido com as tecnologias:
 
 O Habits é um app para registrar os hábitos no seu dia a dia.
 <br>
-<a href="http://127.0.0.1:5500/index.html">Ver o projeto</a>
+<a href="https://pedroaugustom.github.io/primeiroProjeto/">Ver o projeto</a>
 
 
 
